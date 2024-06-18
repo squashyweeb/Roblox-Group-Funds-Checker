@@ -32,5 +32,3 @@ This Python script checks the funds of Roblox groups associated with a user's ac
 Make sure to use this script responsibly and only with permissions for the Roblox account in question.
 
 ---
-
-Just copy the above text and paste it as the description on your GitHub repository.
