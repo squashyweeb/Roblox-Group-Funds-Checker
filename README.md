@@ -1,5 +1,3 @@
-Certainly! You can copy the following GitHub description for your script:
-
 ---
 
 # Roblox Group Funds Checker and Link Opener
